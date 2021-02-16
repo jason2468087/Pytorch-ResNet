@@ -1,10 +1,18 @@
 # ResNet-18 in Pytorch
 
 ## Introduction
+This program is the famous ResNet-18 machine learning CNN model. The code is built with Pytorch library on jupyter notebook. However, due to hardware limitation, the training only lasted for 6 hours and could not continue for higher accuracy.
+
+## Dependencies
+- Pytorch 1.7.0
+- Python 3.7.4
+
+## Skills
+- ResNet Structure
 
 ## Result
 
-Total test accuracy: 85.08%
+Total test accuracy: 85.08% 
 
 Training result visualised:
 ![alt text](https://github.com/jason2468087/Pytorch-ResNet/blob/main/img/ResNet%20Result.png?raw=true)
